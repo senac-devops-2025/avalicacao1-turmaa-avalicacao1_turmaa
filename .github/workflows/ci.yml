@@ -3,13 +3,11 @@ name: CI - Pipeline de Validacao Python
 on:
   push:
     branches: [ "**" ]
-  
   pull_request:
     branches: [ "main" ]
 
 jobs:
   build-e-test:
-    
     runs-on: ubuntu-latest
 
     steps:
@@ -28,7 +26,6 @@ jobs:
 
       - name: Rodar Linter (flake8)
         run: |
-          # O --count mostra o total de erros
           flake8 app/ --count --show-source --statistics
           
       - name: Rodar Testes (pytest)
