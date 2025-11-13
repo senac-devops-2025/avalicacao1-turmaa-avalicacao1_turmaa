@@ -4,11 +4,11 @@
 
 1. Identificação
 
-Aluno: Emerson Caldeira
+Aluno: Rafael Goulart
 
 Grupo: Grupo 1
 
-Repositório: [[Link para este repositório]](https://github.com/senac-devops-2025/avalicacao1-turmaa-avalicacao1_turmaa/tree/emerson-caldeira/correcao-pipeline)
+Repositório: [[Link para este repositório]](https://github.com/senac-devops-2025/avalicacao1-turmaa-avalicacao1_turmaa/tree/rafael-goulart/configuracao-inicial)
 
 2. Evidências de Execução
 
@@ -18,22 +18,20 @@ Etapa 1: Python - CI (Integração Contínua)
 
 Testes executados localmente para validar a lógica da aplicação app/main.py.
 
-<img width="700" alt="pytest" src="https://github.com/user-attachments/assets/68c11d28-7c0b-457c-adb0-b6821d1473c0" />
+<img width="700" alt="pytest" src="" />
 
 2. Verificação de Estilo (Flake8)
 
 Verificação de linting executada localmente, garantindo que o código segue as convenções do PEP 8 (nenhum erro retornado).
 
-<img width="700" alt="Flake8 rodando com sucesso" src="https://github.com/user-attachments/assets/6ab1e4d0-1fa3-48a2-9e72-aae13fdd218e" />
+<img width="700" alt="Flake8 rodando com sucesso" src="" />
 
 3. Pipeline de CI (GitHub Actions)
 
 Workflow de Integração Contínua executado com sucesso no GitHub, validando automaticamente o lint e os testes a cada push.
 
-<img width="700" alt="Workflow do GitHub Actions concluído com sucesso" src="https://github.com/user-attachments/assets/73ab6cda-e42f-4cca-a3f0-847274df2434" />
+<img width="700" alt="Workflow do GitHub Actions concluído com sucesso" src="" />
 
 Etapa 2: Terraform - IaC (Infraestrutura como Código)
 
 `in progress`
-
-
