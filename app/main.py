@@ -10,5 +10,10 @@ def verificar_aprovacao(valores):
 
 
 if __name__ == "__main__":
-    notas = [float(x) for x in input("Digite as notas separadas por espaço: ").split()]
+
+    prompt = "Digite as notas separadas por espaço: "
+    entrada_usuario = input(prompt)
+
+    notas = [float(x) for x in entrada_usuario.split()]
+
     print(verificar_aprovacao(notas))
