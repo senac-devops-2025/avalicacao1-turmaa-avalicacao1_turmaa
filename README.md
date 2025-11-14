@@ -13,4 +13,4 @@ Configurar o ambiente de DevOps, criar pipeline CI com testes automatizados e re
 ## Entrega
 1. Pipeline funcional no GitHub Actions
 2. Prints das ferramentas e deploy no Azure
-3. Link do repositório no GitHub Classroom
+3. Link do repositório no GitHub Classroom.
