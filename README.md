@@ -1,16 +1,26 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21627118)
-# Avaliação 1 – Etapa 1: Preparação Técnica e Integração com Azure
+# Avaliação 1 - Etapa 1: Preparação Técnica e Integração com Azure
 
-## Objetivo
-Configurar o ambiente de DevOps, criar pipeline CI com testes automatizados e realizar deploy básico no Azure via Terraform.
+## Documentação e evidências da avaliação 1, referente à criação de pipeline CI para Python e provisionamento de infraestrutura no Azure com Terraform.
 
-## Estrutura do Projeto
-- `.github/workflows/ci.yml`: pipeline CI/CD com build, lint e testes
-- `app/main.py`: código principal
-- `tests/test_main.py`: testes automatizados
-- `main.tf`: infraestrutura Azure via Terraform
+1. Identificação
 
-## Entrega
-1. Pipeline funcional no GitHub Actions
-2. Prints das ferramentas e deploy no Azure
-3. Link do repositório no GitHub Classroom
+Aluno: Emerson Caldeira
+
+Grupo: Grupo 1
+
+Repositório: [[[Link para este repositório]](https://github.com/senac-devops-2025/avalicacao1-turmaa-avalicacao1_turmaa/tree/emerson-caldeira/correcao-pipeline)](https://github.com/senac-devops-2025/avalicacao1-turmaa-avalicacao1_turmaa/tree/emerson-caldeira/terraform)
+
+2. Evidências de Execução
+
+Etapa 1: Terraform init
+
+<img width="1121" height="383" alt="terraform init" src="https://github.com/user-attachments/assets/489dfbb7-4219-453e-98f6-90819a4d9c07" />
+
+2. terraform apply -auto-approve
+
+<img width="1894" height="389" alt="terraform apply -auto-approve" src="https://github.com/user-attachments/assets/ec69fd9b-fba3-4ca2-9f37-2d21cc44f072" />
+
+
+3. Imagem do portal azure
+
+<img width="1806" height="899" alt="portal azure" src="https://github.com/user-attachments/assets/8e72327c-ae95-4ff6-baae-ff68bc5366c9" />
