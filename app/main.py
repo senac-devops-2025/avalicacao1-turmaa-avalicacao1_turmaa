@@ -17,3 +17,4 @@ if __name__ == "__main__":
     notas = [float(x) for x in entrada_usuario.split()]
 
     print(verificar_aprovacao(notas))
+    
