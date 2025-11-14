@@ -6,7 +6,7 @@ Aluno: Jonatas Souza
 
 Grupo: Grupo 1
 
-Repositório: [Link para este repositório]
+Repositório: [\[Link para este repositório\]](https://github.com/senac-devops-2025/avalicacao1-turmaa-avalicacao1_turmaa/tree/jonatas-souza/configuracao-inicial?tab=readme-ov-file)
 
 Evidências de Execução
 Etapa 1: Python - CI (Integração Contínua)
