@@ -34,6 +34,5 @@ Workflow de Integração Contínua executado com sucesso no GitHub, validando au
 
 Etapa 2: Terraform - IaC (Infraestrutura como Código)
 
-`in progress`
 
 
