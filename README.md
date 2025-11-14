@@ -1,6 +1,7 @@
 Avaliação 1 - Etapa 1: Preparação Técnica e Integração com Azure
 Documentação e evidências da avaliação 1, referente à criação de pipeline CI para Python e provisionamento de infraestrutura no Azure com Terraform.
 Identificação
+
 Aluno: Jonatas Souza
 
 Grupo: Grupo 1
