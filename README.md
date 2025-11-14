@@ -1,16 +1,14 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21627118)
-# Avaliação 1 – Etapa 1: Preparação Técnica e Integração com Azure
+Avaliação 1 - Etapa 1: Preparação Técnica e Integração com Azure
+Documentação e evidências da avaliação 1, referente à criação de pipeline CI para Python e provisionamento de infraestrutura no Azure com Terraform.
+Identificação
+Aluno: Jonatas Souza
 
-## Objetivo
-Configurar o ambiente de DevOps, criar pipeline CI com testes automatizados e realizar deploy básico no Azure via Terraform.
+Grupo: Grupo 1
 
-## Estrutura do Projeto
-- `.github/workflows/ci.yml`: pipeline CI/CD com build, lint e testes
-- `app/main.py`: código principal
-- `tests/test_main.py`: testes automatizados
-- `main.tf`: infraestrutura Azure via Terraform
+Repositório: [Link para este repositório]
 
-## Entrega
-1. Pipeline funcional no GitHub Actions
-2. Prints das ferramentas e deploy no Azure
-3. Link do repositório no GitHub Classroom
+Evidências de Execução
+Etapa 1: Python - CI (Integração Contínua)
+
+Testes Unitários (Pytest)
+Testes executados localmente para validar a lógica da aplicação app/main.py.
