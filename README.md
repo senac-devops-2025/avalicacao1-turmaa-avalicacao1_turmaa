@@ -27,7 +27,7 @@ Verificação de linting executada localmente, garantindo que o código segue as
 
 3. Pipeline de CI (GitHub Actions)
 
-![alt text](./image.png)
+![alt text](image-1.png)
 
 Etapa 2: Terraform - IaC (Infraestrutura como Código)
 
