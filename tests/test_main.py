@@ -11,3 +11,4 @@ def test_media_vazia():
 def test_verificar_aprovacao():
     assert verificar_aprovacao([7, 7, 7]) == "Aprovado"
     assert verificar_aprovacao([5, 6, 5]) == "Reprovado"
+    
