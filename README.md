@@ -11,26 +11,19 @@ Grupo: Grupo 1
 Repositório: [Link para este repositório]
 
 2. Evidências de Execução
-Etapa 1: Python - CI (Integração Contínua)
 
-    A. Testes Unitários (Pytest)
+Etapa 1: Terraform init
 
-estes executados localmente para validar a lógica da aplicação app/main.py.
+![alt text](<terraform init.png>)
 
-![alt text](Pytest.png)
+3. terraform apply -auto-approve
 
-    B. Verificação de Estilo (Flake8)
+![alt text](<terraform apply -auto-approve.png>)
 
-Verificação de linting executada localmente, garantindo que o código segue as convenções do PEP 8 (nenhum erro retornado).
+4. Imagem do portal azure
 
-![alt text](<Flake8 app.png>)
+![alt text](<Imagem do portal azure.png>)
 
-3. Pipeline de CI (GitHub Actions)
 
-![alt text](./image.png)
-
-Etapa 2: Terraform - IaC (Infraestrutura como Código)
-
-Em desenvolvimento. 
 
 
