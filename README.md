@@ -1,4 +1,4 @@
-# Avaliação 1 - Etapa 1: Preparação Técnica e Integração com Azure
+# Avaliação 1 - Etapa 2: Preparação Técnica e Integração com Terraform
 
 ## Documentação e evidências da avaliação 1, referente à criação de pipeline CI para Python e provisionamento de infraestrutura no Azure com Terraform.
 
@@ -12,26 +12,16 @@ Repositório: [[Link para este repositório]](https://github.com/senac-devops-20
 
 2. Evidências de Execução
 
-Etapa 1: Python - CI (Integração Contínua)
+Etapa 1: Terraform init
 
-1. Testes Unitários (Pytest)
+<img width="600" height="200" alt="terraform init" src="https://github.com/user-attachments/assets/da06e76b-d980-4e6e-8d1d-910074cbe982" />
 
-Testes executados localmente para validar a lógica da aplicação app/main.py.
 
-<img width="700" alt="pytest" src="" />
+2. terraform apply -auto-approve
+ 
+<img width="600" height="200" alt="terraform apply -auto-approve" src="https://github.com/user-attachments/assets/1b86c7f1-f074-4ce8-9164-355288af3ece" />
 
-2. Verificação de Estilo (Flake8)
 
-Verificação de linting executada localmente, garantindo que o código segue as convenções do PEP 8 (nenhum erro retornado).
+3. Imagem do portal azure
 
-<img width="700" alt="Flake8 rodando com sucesso" src="" />
-
-3. Pipeline de CI (GitHub Actions)
-
-Workflow de Integração Contínua executado com sucesso no GitHub, validando automaticamente o lint e os testes a cada push.
-
-<img width="700" alt="Workflow do GitHub Actions concluído com sucesso" src="" />
-
-Etapa 2: Terraform - IaC (Infraestrutura como Código)
-
-`in progress`
+<img width="1806" height="899" alt="portal azure" src="https://github.com/user-attachments/assets/612f1f50-5517-4f71-8db8-29ca48aa43c9" />
