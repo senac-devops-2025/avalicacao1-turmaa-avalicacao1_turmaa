@@ -25,3 +25,7 @@ Etapa 1: Terraform init
 3. Imagem do portal azure
 
 <img width="1806" height="899" alt="portal azure" src="https://github.com/user-attachments/assets/612f1f50-5517-4f71-8db8-29ca48aa43c9" />
+
+4. Git Actions
+
+<img width="1272" height="301" alt="figura_7" src="https://github.com/user-attachments/assets/ee073834-ab03-4c4f-9e57-5f49a6488609" />
