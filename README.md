@@ -1,15 +1,31 @@
-# Avaliação 1 – Etapa 1: Preparação Técnica e Integração com Azure
+# Avaliação 1 - Etapa 1: Preparação Técnica e Integração com Azure
 
-## Objetivo
-Configurar o ambiente de DevOps, criar pipeline CI com testes automatizados e realizar deploy básico no Azure via Terraform.
+## Documentação e evidências da avaliação 1, referente à criação de pipeline CI para Python e provisionamento de infraestrutura no Azure com Terraform.
 
-## Estrutura do Projeto
-- `.github/workflows/ci.yml`: pipeline CI/CD com build, lint e testes
-- `app/main.py`: código principal
-- `tests/test_main.py`: testes automatizados
-- `main.tf`: infraestrutura Azure via Terraform
+1. Identificação
 
-## Entrega
-1. Pipeline funcional no GitHub Actions
-2. Prints das ferramentas e deploy no Azure
-3. Link do repositório no GitHub Classroom
+Aluno: Rafael Goulart
+
+Grupo: Grupo 1
+
+Repositório: [[Link para este repositório]](https://github.com/senac-devops-2025/avalicacao1-turmaa-avalicacao1_turmaa/tree/rafael-goulart/configuracao-inicial)
+
+2. Evidências de Execução
+
+Etapa 1: Terraform init
+
+<img width="600" height="200" alt="terraform init" src="https://github.com/user-attachments/assets/da06e76b-d980-4e6e-8d1d-910074cbe982" />
+
+
+2. terraform apply -auto-approve
+ 
+<img width="600" height="200" alt="terraform apply -auto-approve" src="https://github.com/user-attachments/assets/1b86c7f1-f074-4ce8-9164-355288af3ece" />
+
+
+3. Imagem do portal azure
+
+<img width="1806" height="899" alt="portal azure" src="https://github.com/user-attachments/assets/612f1f50-5517-4f71-8db8-29ca48aa43c9" />
+
+4. Git Actions
+
+<img width="1272" height="301" alt="figura_7" src="https://github.com/user-attachments/assets/ee073834-ab03-4c4f-9e57-5f49a6488609" />
